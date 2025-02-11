@@ -13,22 +13,6 @@ JavaScript ES6+ – Used for logic and component functionalities.
 CSS – Used for styling the application.
 
 
-
-📁 Project Structure
-/my-react-crud-app
-│── src/
-│   ├── App.js        # Main Component
-│   ├── assets/
-│   │   ├── api.js    # Employee data source
-│   ├── App.css       # Styling
-│   ├── main.jsx      # Root file
-│── index.html        # Main HTML file
-│── package.json      # Dependencies & Scripts
-│── README.md         # Documentation
-🚀 How It Works?
-
-
-
 This project follows the CRUD pattern:
 
 Create (C)
